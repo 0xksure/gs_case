@@ -1,1 +1,6 @@
 target/
+*env
+.vscode
+.DS_store
+.OS_store
+__pycache__
